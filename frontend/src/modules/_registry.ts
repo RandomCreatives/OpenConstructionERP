@@ -55,6 +55,7 @@ import { manifest as krBoqExchange } from './kr-boq-exchange/manifest';
 import { manifest as ddcIfcConverter } from './ddc-ifc-converter/manifest';
 import { manifest as ddcRvtConverter } from './ddc-rvt-converter/manifest';
 import { manifest as pipelines } from './pipelines/manifest';
+import { manifest as etBoqExchange } from './et-boq-exchange/manifest';
 
 /* ── Registry ──────────────────────────────────────────────────────── */
 
@@ -94,6 +95,7 @@ export const MODULE_REGISTRY: ModuleManifest[] = [
   ddcIfcConverter,
   ddcRvtConverter,
   pipelines,
+  etBoqExchange,
 ];
 
 /* ── Helper functions ──────────────────────────────────────────────── */
