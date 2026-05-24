@@ -62,6 +62,15 @@ PACK_CONFIG: dict[str, Any] = {
             "description": "Withholding tax on payments for goods and services",
         },
     ],
+    # ── Cost database references ─────────────────────────────────────────────
+    "cost_database_references": [
+        {
+            "code": "MoWUD_DSR",
+            "name": "MoWUD — Detailed Schedule of Rates",
+            "description": "Standard rates for Ethiopian construction projects (Building/Road)",
+            "file_reference": "DDC_CWICR_ETB_ETHIOPIA_Catalog.csv",
+        },
+    ],
     # ── Units (metric defaults) ──────────────────────────────────────────────
     "default_units": {
         "length": "m",

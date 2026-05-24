@@ -1,0 +1,6 @@
+resource_code,name,type,category,unit,price_avg,price_min,price_max,price_median,price_variants,currency,avg_cost_per_use,avg_qty_per_use,usage_count,used_in_work_items,parent_category,parent_collection,parent_department,parent_section
+ET_MOWUD_1_2_33,10cm thick HCB Structure,Material,Construction,m3,112.61,112.61,112.61,112.61,1,ETB,0,0,0,0,MoWUD,Ethiopian Standards,Building Construction,General
+ET_MOWUD_1_2_34,15cm thick HCB Structure,Material,Construction,m2,123.75,123.75,123.75,123.75,1,ETB,0,0,0,0,MoWUD,Ethiopian Standards,Building Construction,General
+ET_MOWUD_1_2_35,20cm thick HCB Structure,Material,Construction,m3,173.25,173.25,173.25,173.25,1,ETB,0,0,0,0,MoWUD,Ethiopian Standards,Building Construction,General
+ET_MOWUD_1_2_36,Terrazzo floor,Material,Construction,.,192.50,192.50,192.50,192.50,1,ETB,0,0,0,0,MoWUD,Ethiopian Standards,Building Construction,General
+ET_MOWUD_1_2_37,Cement screed floor,Material,Construction,m2,43.31,43.31,43.31,43.31,1,ETB,0,0,0,0,MoWUD,Ethiopian Standards,Building Construction,General
